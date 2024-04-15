@@ -1,2 +1,1 @@
-IRB
 puts "Hello, World!"
