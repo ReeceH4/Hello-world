@@ -1,5 +1,8 @@
-public class main {
-  public static void main(String[] args) {
-      System.out.println("Hello World");
-  }
+// Define a function to echo "Hello, World!"
+function echoHelloWorld() {
+    console.log("Hello, World!");
 }
+
+// Call the function to echo "Hello, World!"
+echoHelloWorld();
+
